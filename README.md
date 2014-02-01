@@ -11,6 +11,8 @@ There is also a modified vim's theme shipped with Molokai-Terminal.  It makes
 use of both xterm-256 color and 16 terminal color to present a uniform
 experience in terminal, vim and gvim.
 
+Any comments are welcome!
+
 ![terminal](https://github.com/zhou13/molokai-terminal/raw/master/image/terminal.png)
 
 ![eix](https://github.com/zhou13/molokai-terminal/raw/master/image/eix.png)
